@@ -1,0 +1,6 @@
+{
+  "name": "TerraNova Energy Limited",
+  "description": "Corporate website and content management platform for TerraNova Energy Limited (RC: 9478210), advancing energy transition, carbon solutions, renewable energy, and ecosystem restoration in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
